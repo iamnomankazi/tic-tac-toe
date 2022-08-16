@@ -1,3 +1,5 @@
+# Basic Tic Tac Toe Project. Player vs Computer
+
 board = [' ' for x in range(10)]  # Initialize the board with empty spaces
 
 
